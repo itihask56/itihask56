@@ -1,4 +1,4 @@
-<h1 align="center">Hello Dev's👋, I'm I am Itihas Verma</h1>
+<h1 align="center">Hello Dev's 👋, I'm Itihas Verma</h1>
 <h3 align="center">A Tech Enthusiast and aspiring Entrepreneur from Chandigarh University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itihask56&label=Profile%20views&color=0e75b6&style=flat" alt="itihask56" /> </p>
