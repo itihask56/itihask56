@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Html, Tailwind**
 
-- 📫 How to reach me **dev.itihas@gmail.com**
+- 📫 How to reach me **https://itihasverma.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
