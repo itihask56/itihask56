@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itihask56&label=Profile%20views&color=0e75b6&style=flat" alt="itihask56" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itihask56" alt="itihask56" /></a> </p>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/676c458670129741a832b19b?variant=dark" alt="roadmap.sh"/></a>
 
 - 🔭 I’m currently working on **ReHostify**
 
