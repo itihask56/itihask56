@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itihask56" alt="itihask56" /></a> </p>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/676c458670129741a832b19b?variant=dark" alt="roadmap.sh"/></a>
 
-- 🔭 I’m currently working on **ReHostify**
+- 🔭 I’m currently working on **CodeGenie - AI Integrated coding platorm**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning ** Automation with Playwright**
 
-- 💬 Ask me about **React, Html, Tailwind**
+- 💬 Ask me about **Backend Developement CI/CD, Docker**
 
 - 📫 How to reach me **https://itihasverma.vercel.app/**
 
