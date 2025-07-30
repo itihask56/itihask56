@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itihask56" alt="itihask56" /></a> </p>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67977bb432284498bc4bdfbc?variant=dark&roadmaps=cpp%2Cbackend%2Cqa%2Cdevops" alt="roadmap.sh"/></a>
-- 🔭 I’m currently working on **CodeGenie - AI Integrated coding platorm**
 
-- 🌱 I’m currently learning ** Automation with Playwright**
+- 🔭 I’m currently working on **CodeGenie - AI Integrated coding platform**
 
-- 💬 Ask me about **Backend Developement CI/CD, Docker**
+- 🌱 I’m currently learning **Automation with Playwright & Selenium**
 
-- 📫 How to reach me **https://itihasverma.vercel.app/**
+- 💬 Ask me about Backend Developement CI/CD, Docker
+
+- 📫 How to reach me https://itihasverma.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
